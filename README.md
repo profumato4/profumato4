@@ -1,4 +1,3 @@
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
@@ -18,7 +17,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/profumato4/count.svg?"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=profumato4.profumato4&left_color=seagreen&right_color=mediumturquoise"  />
 
 ###
 
@@ -33,12 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mx7de78kj3i6c5hoctysbz7ff">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mx7de78kj3i6c5hoctysbz7ff&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/profumato4/profumato4/output/snake.svg" alt="Snake animation" />
 
 ###
