@@ -13,7 +13,7 @@
 
  ✨ Creating bugs since **2022**
 
- 🔭 I'm currently working on **a lot of things**
+ 🔭 I'm currently working on **a lot of things** 👨🏻‍💻
  
  🌱  I’m currently learning **everything** 🤓
 
