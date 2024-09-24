@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,c,java,javascript,mysql,androidstudio,arduino,eclipse,idea,kali,linux,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,c,java,javascript,mysql,androidstudio,arduino,eclipse,idea,kali,linux,windows,php" /><br>
 </div>
 
 <br/>
